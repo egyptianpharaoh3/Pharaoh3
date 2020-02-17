@@ -1,0 +1,17 @@
+name:Zaaid
+
+on:Top 
+
+jobs:CEO
+  build:Biggest Empire
+
+    runs-on:Dead Presidents
+
+    steps:3
+    - uses: actions/checkout@v2
+    - name: Gold    
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: The Galaxy
+        echo Add other actions to build,
+        echo test, and deploy your project.
